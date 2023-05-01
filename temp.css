@@ -18,13 +18,13 @@
   }
   dark{
     accent_color: #6d507b;
-    accent_bg_color: #612778;
+    accent_bg_color: #5e4076;
     accent_fg_color: #eed5ee;
-    window_bg_color: #331052;
+    window_bg_color: #330b60;
     window_fg_color: #eed5ee;
-    headerbar_bg_color: #28073b;
+    headerbar_bg_color: #24003f;
     headerbar_fg_color: #eee8d5;
-    headerbar_backdrop_color: #331052;
+    headerbar_backdrop_color: #330b60;
     popover_bg_color: #2e1244;
     popover_fg_color: #eed5ee;
     view_bg_color: #1e0742;
